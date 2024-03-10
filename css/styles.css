@@ -8,9 +8,9 @@
   font-family: "Rubik", Arial, Helvetica, sans-serif;
   --bg-primary: #ffffff;
   --bg-secondary: #ad5a22;
-  --bg-tertiary: #28197c;
-  --font-color-primary: #dfdfdf;
-  --backup-color: #76c3e2;
+  --bg-tertiary: #000000;
+  --font-color-primary: #020202;
+  --backup-color: hsl(7, 100%, 56%);
 }
 
 body {
